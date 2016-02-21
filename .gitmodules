@@ -1,0 +1,6 @@
+[submodule "UTFT_SdRaw"]
+	path = UTFT_SdRaw
+	url = https://github.com/ghlawrence2000/UTFT_SdRaw.git
+[submodule "SdFat"]
+	path = SdFat
+	url = https://github.com/greiman/SdFat.git
